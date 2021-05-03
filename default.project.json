@@ -1,0 +1,24 @@
+{
+  "name": "ModelCategorize",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+
+      "ModelCategorize": {
+        "$className": "Folder",
+
+        "src": {
+          "$className": "Folder",
+          "$path": "src"
+        },
+
+        "vendor": {
+          "$className": "Folder",
+          "$path": "vendor"
+        }
+      }
+    }
+  }
+}
